@@ -1,4 +1,4 @@
-Previously software engineer! Currently NLP explorer!
+NLP explorer!
 
 - [Linkedin](https://www.linkedin.com/in/hadif4r/)
 - [Stackoverflow](https://stackoverflow.com/users/1462770/amir)
