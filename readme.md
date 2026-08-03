@@ -3,7 +3,7 @@ AI/ML Engineer!
 - [Linkedin](https://www.linkedin.com/in/hadif4r/)
 - [Twitter](https://x.com/hadif4r)
 - [Scholar](https://scholar.google.com/citations?user=vESJYOsAAAAJ&hl=en)
-- [Blog](https://hadifar.github.io/vibe-coding-best-practices/)
+- [Blog](https://hadifar.github.io/agentic-software-development-playbook/)
 
 
 ```
